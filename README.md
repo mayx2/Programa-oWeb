@@ -1,0 +1,1 @@
+Este repositório contém os exercícios de programação realizados durante as aulas de Programação Web no Instituto Federal de Pernambuco (IFPE). Cada exercício aborda diferentes aspectos do desenvolvimento web, incluindo HTML, CSS, JavaScript e
